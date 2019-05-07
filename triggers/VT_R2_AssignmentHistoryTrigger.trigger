@@ -1,6 +1,8 @@
 /**
- * Created by Dmitry Prozorovskiy on 3/26/2019.
- */
+* @author: Dmitry Prozorovskiy
+* @date: 26-Mar-19
+* @description: Used to get access tokens and base URIs for Docusign
+**/
 
 trigger VT_R2_AssignmentHistoryTrigger on VTD1_Assignment_History__c (after insert, after update, after delete, after undelete) {
 
