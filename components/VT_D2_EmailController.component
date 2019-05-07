@@ -1,6 +1,8 @@
-<!--
- - Created by Dmitry Prozorovskiy on 07.08.2018.
- -->
+/**
+* @author: Dmitry Prozorovskiy
+* @date: 09-Sep-18
+* @description: Used to get access tokens and base URIs for Docusign
+**/
 
 <apex:component id="VT_D2_EmailWelcome" controller="VT_D2_EmailController" access="global">
     <apex:attribute name="userId" type="Id" description="Used Id" assignTo="{!usrId}"/>
