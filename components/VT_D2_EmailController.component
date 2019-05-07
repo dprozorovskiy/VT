@@ -1,7 +1,7 @@
 /**
 * @author: Dmitry Prozorovskiy
 * @date: 09-Sep-18
-* @description: Used to get access tokens and base URIs for Docusign
+* @description: 
 **/
 
 <apex:component id="VT_D2_EmailWelcome" controller="VT_D2_EmailController" access="global">
